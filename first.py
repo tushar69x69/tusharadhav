@@ -1,4 +1,6 @@
 print("hin tushar")
 print("tushar")
-print("vaishanavi")
-print("manyaa")
+print("Bhaaiaaiiiaiaiiaiaiaiaiaaya")
+
+print("tushar")
+print("Bhaaiaaiiiaiaiiaiaiaiaiaaya")
